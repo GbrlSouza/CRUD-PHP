@@ -34,7 +34,7 @@ Siga estes passos para colocar o projeto no ar:
 ### 1\. Clonar o Repositório
 
 ```bash
-git clone [URL_DO_SEU_REPOSITORIO] cadastro-simples
+git clone https://github.com/GbrlSouza/CRUD-PHP cadastro-simples
 cd cadastro-simples
 ```
 
